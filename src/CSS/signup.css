@@ -1,0 +1,19 @@
+* {
+    margin-top: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#signin{
+    background: url("/public/Images/signin.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 670px;
+}
+
+#signup{
+    background: url("/public/Images/signup.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 670px;
+}

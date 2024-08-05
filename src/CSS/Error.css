@@ -1,0 +1,17 @@
+
+/* Error */
+
+.Error {
+    background: url("/public/Images/404-error-page-templates.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+}
+
+.Error a {
+    position: relative;
+    top: 32rem;
+    left: 39rem;
+    width: 200px;
+    padding: 10px;
+}
